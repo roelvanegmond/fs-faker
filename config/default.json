@@ -1,0 +1,13 @@
+{
+  "dataRoot": "c:/fake",
+  "maxUniqueDirPaths": 100,
+  "maxDepth": 5,
+  "maxFileCount": 200,
+  "fileSizeMin": 1048576,
+  "fileSizeMax": 10485760,
+  "pathConstructor": [
+    "{{commerce.productName}}",
+    "{{company.companyName}}",
+    "{{finance.accountName}}"
+  ]
+}

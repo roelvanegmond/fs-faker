@@ -1,0 +1,17 @@
+{
+  "name": "fs-faker",
+  "version": "1.0.0",
+  "description": "Generates a fake file and folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roel van Egmond",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "config": "^3.3.6",
+    "fake-file-generator": "^1.1.1",
+    "faker": "^5.5.3"
+  }
+}
