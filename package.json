@@ -1,13 +1,13 @@
 {
   "name": "fs-faker",
   "version": "1.0.0",
-  "description": "Generates a fake file and folder structure",
+  "description": "A command line application that allows you to generate a fake file structure.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Roel van Egmond",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "cli-progress": "^3.9.1",
