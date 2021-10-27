@@ -1,8 +1,8 @@
 {
-  "dataRoot": "c:/fake",
+  "dataRoot": "c:/fakeData",
   "maxUniqueDirPaths": 100,
   "maxDepth": 5,
-  "maxFileCount": 200,
+  "maxFileCount": 500,
   "fileSizeMin": 1048576,
   "fileSizeMax": 10485760,
   "pathConstructor": [
