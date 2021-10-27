@@ -51,17 +51,3 @@ Default: `10485760` (10MB)
 [Faker](http://marak.github.io/faker.js/) API methods (using a mustache string format) that can be used to generate folder names.
 
 Default: `10485760` (10MB)
-
-{
-  "dataRoot": "c:/fake",
-  "maxUniqueDirPaths": 100,
-  "maxDepth": 5,
-  "maxFileCount": 100,
-  "fileSizeMin": 1048576,
-  "fileSizeMax": 10485760,
-  "pathConstructor": [
-    "{{commerce.productName}}",
-    "{{company.companyName}}",
-    "{{finance.accountName}}"
-  ]
-}
